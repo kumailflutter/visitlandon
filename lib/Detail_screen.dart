@@ -68,6 +68,7 @@ class _Detail_screenState extends State<Detail_screen> {
         backgroundColor: const Color(0xFFFF0000),
         title: const Text('DetailScreen'),
       ),
+      //this is the body of the code
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.fromLTRB(0, 8, 0, 10),
